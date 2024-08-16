@@ -1,7 +1,7 @@
 ### who am i
  - research scientist @ [machine learning core](https://cmn.nimh.nih.gov/mlt), nimh.
- - past memeber of [catnip lab](https://catniplab.github.io/).
- - scientific advisory board at [ryvivyr](https://ryvivyr.com/).
+ - past memeber @ [catnip lab](https://catniplab.github.io/).
+ - scientific advisory board @ [ryvivyr](https://ryvivyr.com/).
 
 ### research interests
   - information processing in the brain.
