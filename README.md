@@ -1,6 +1,13 @@
-### Hi there 👋
+### who am i
+ - research scientist @ [machine learning core](https://cmn.nimh.nih.gov/mlt), nimh.
+ - past memeber of [catnip lab](https://catniplab.github.io/).
+ - scientific advisory board at [ryvivyr](https://ryvivyr.com/).
 
-research scientist @ mlt core, nimh
+### research interests
+  - information processing in the brain.
+  - neural code, computation, dynamics and noise.
+  - statistical and information-theoretic methods for neural signal analysis.
+  - machine learning and time series modeling.
 
 <!--
 **yuanz271/yuanz271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
