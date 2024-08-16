@@ -1,5 +1,5 @@
 ### who am i
- - research scientist @ [machine learning core](https://cmn.nimh.nih.gov/mlt), nimh.
+ - research scientist @ [machine learning core, nimh](https://cmn.nimh.nih.gov/mlt).
  - past memeber @ [catnip lab](https://catniplab.github.io/).
  - scientific advisory board @ [ryvivyr](https://ryvivyr.com/).
 
